@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T18:37:19.598Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="sgqhLnGLmKTO_MlgAozb" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-22T18:58:28.751Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="NBZDAQU-ts_ghZ9RWGzY" version="21.8.0" type="github" pages="2">
   <diagram name="Strona-1" id="qCner-i91eknJ_GsYf-1">
     <mxGraphModel dx="1781" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,108 @@
         </mxCell>
         <mxCell id="fFegM5qVdJ68jG8yaJsP-10" value="User certificate" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698402-icon-138-certificate-128.png;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="l4uvyzxPSTnZRetritaI" name="Strona-2">
+    <mxGraphModel dx="954" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VTAO6TMsJG53witNGvhU-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTAO6TMsJG53witNGvhU-12" target="VTAO6TMsJG53witNGvhU-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Gear.svg;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTAO6TMsJG53witNGvhU-14" target="VTAO6TMsJG53witNGvhU-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-14" value="Message" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="32.46" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTAO6TMsJG53witNGvhU-15" target="VTAO6TMsJG53witNGvhU-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-15" value="Private key" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/internet_of_things/Time_Series_Insights_Access_Policies.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="24.71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="240" y="80" width="37.47000000000003" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="VTAO6TMsJG53witNGvhU-19">
+          <mxGeometry width="32.46" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Security_Center.svg;" vertex="1" parent="VTAO6TMsJG53witNGvhU-19">
+          <mxGeometry x="21" y="26" width="16.47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTAO6TMsJG53witNGvhU-24" target="VTAO6TMsJG53witNGvhU-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-24" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Gear.svg;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-26" value="Message" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="32.46" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="VTAO6TMsJG53witNGvhU-28" target="VTAO6TMsJG53witNGvhU-24" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-28" value="Public key" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/internet_of_things/Time_Series_Insights_Access_Policies.svg;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="24.71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTAO6TMsJG53witNGvhU-18" target="VTAO6TMsJG53witNGvhU-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="VTAO6TMsJG53witNGvhU-55" target="VTAO6TMsJG53witNGvhU-61" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-55" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Gear.svg;" vertex="1" parent="1">
+          <mxGeometry x="640" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="VTAO6TMsJG53witNGvhU-57" target="VTAO6TMsJG53witNGvhU-55" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-57" value="Message" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="720" y="360" width="32.46" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="VTAO6TMsJG53witNGvhU-59" target="VTAO6TMsJG53witNGvhU-55" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-59" value="Public key" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/internet_of_things/Time_Series_Insights_Access_Policies.svg;" vertex="1" parent="1">
+          <mxGeometry x="720" y="440" width="24.71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-60" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="557.47" y="400" width="37.47000000000003" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-61" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="VTAO6TMsJG53witNGvhU-60">
+          <mxGeometry width="32.46" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-62" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Security_Center.svg;" vertex="1" parent="VTAO6TMsJG53witNGvhU-60">
+          <mxGeometry x="21" y="26" width="16.47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="VTAO6TMsJG53witNGvhU-64" target="VTAO6TMsJG53witNGvhU-65" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-64" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Gear.svg;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-65" value="Message" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="32.46" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-66" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="VTAO6TMsJG53witNGvhU-67" target="VTAO6TMsJG53witNGvhU-64" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-67" value="Private key" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/internet_of_things/Time_Series_Insights_Access_Policies.svg;" vertex="1" parent="1">
+          <mxGeometry x="520" y="560" width="24.71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTAO6TMsJG53witNGvhU-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="VTAO6TMsJG53witNGvhU-61" target="VTAO6TMsJG53witNGvhU-64" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
