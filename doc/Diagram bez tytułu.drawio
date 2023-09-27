@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T16:41:00.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="z1Emq367F6oL1obowswb" version="21.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-27T16:42:50.808Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="n_luIl-rzanVW0t2H_j8" version="21.8.0" type="github" pages="3">
   <diagram name="PKI" id="qCner-i91eknJ_GsYf-1">
     <mxGraphModel dx="1781" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,19 +72,19 @@
         <mxCell id="VTAO6TMsJG53witNGvhU-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VTAO6TMsJG53witNGvhU-14" target="VTAO6TMsJG53witNGvhU-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTAO6TMsJG53witNGvhU-14" value="Message" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" parent="1" vertex="1">
+        <mxCell id="VTAO6TMsJG53witNGvhU-14" value="Wiadomość" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="32.46" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VTAO6TMsJG53witNGvhU-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VTAO6TMsJG53witNGvhU-15" target="VTAO6TMsJG53witNGvhU-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTAO6TMsJG53witNGvhU-15" value="Private key" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/internet_of_things/Time_Series_Insights_Access_Policies.svg;" parent="1" vertex="1">
+        <mxCell id="VTAO6TMsJG53witNGvhU-15" value="Klucz prywatny" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/internet_of_things/Time_Series_Insights_Access_Policies.svg;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="24.71" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VTAO6TMsJG53witNGvhU-19" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="240" y="80" width="37.47000000000003" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="VTAO6TMsJG53witNGvhU-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" parent="VTAO6TMsJG53witNGvhU-19" vertex="1">
+        <mxCell id="VTAO6TMsJG53witNGvhU-18" value="Szyfrogram" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" parent="VTAO6TMsJG53witNGvhU-19" vertex="1">
           <mxGeometry width="32.46" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VTAO6TMsJG53witNGvhU-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Security_Center.svg;" parent="VTAO6TMsJG53witNGvhU-19" vertex="1">
@@ -96,13 +96,13 @@
         <mxCell id="VTAO6TMsJG53witNGvhU-24" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Gear.svg;" parent="1" vertex="1">
           <mxGeometry x="360" y="200" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VTAO6TMsJG53witNGvhU-26" value="Message" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" parent="1" vertex="1">
+        <mxCell id="VTAO6TMsJG53witNGvhU-26" value="Wiadomość" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" parent="1" vertex="1">
           <mxGeometry x="440" y="200" width="32.46" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VTAO6TMsJG53witNGvhU-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VTAO6TMsJG53witNGvhU-28" target="VTAO6TMsJG53witNGvhU-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTAO6TMsJG53witNGvhU-28" value="Public key" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/internet_of_things/Time_Series_Insights_Access_Policies.svg;" parent="1" vertex="1">
+        <mxCell id="VTAO6TMsJG53witNGvhU-28" value="Klucz publiczny" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/internet_of_things/Time_Series_Insights_Access_Policies.svg;" parent="1" vertex="1">
           <mxGeometry x="280" y="240" width="24.71" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VTAO6TMsJG53witNGvhU-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VTAO6TMsJG53witNGvhU-18" target="VTAO6TMsJG53witNGvhU-24" edge="1">
@@ -119,19 +119,19 @@
         <mxCell id="VTAO6TMsJG53witNGvhU-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VTAO6TMsJG53witNGvhU-57" target="VTAO6TMsJG53witNGvhU-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTAO6TMsJG53witNGvhU-57" value="Message" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" parent="1" vertex="1">
+        <mxCell id="VTAO6TMsJG53witNGvhU-57" value="Wiadomość" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" parent="1" vertex="1">
           <mxGeometry x="720" y="360" width="32.46" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VTAO6TMsJG53witNGvhU-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VTAO6TMsJG53witNGvhU-59" target="VTAO6TMsJG53witNGvhU-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTAO6TMsJG53witNGvhU-59" value="Public key" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/internet_of_things/Time_Series_Insights_Access_Policies.svg;" parent="1" vertex="1">
+        <mxCell id="VTAO6TMsJG53witNGvhU-59" value="Klucz publiczny" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/internet_of_things/Time_Series_Insights_Access_Policies.svg;" parent="1" vertex="1">
           <mxGeometry x="720" y="440" width="24.71" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VTAO6TMsJG53witNGvhU-60" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="557.47" y="400" width="37.47000000000003" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="VTAO6TMsJG53witNGvhU-61" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" parent="VTAO6TMsJG53witNGvhU-60" vertex="1">
+        <mxCell id="VTAO6TMsJG53witNGvhU-61" value="Szyfrogram" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" parent="VTAO6TMsJG53witNGvhU-60" vertex="1">
           <mxGeometry width="32.46" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VTAO6TMsJG53witNGvhU-62" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Security_Center.svg;" parent="VTAO6TMsJG53witNGvhU-60" vertex="1">
@@ -143,13 +143,13 @@
         <mxCell id="VTAO6TMsJG53witNGvhU-64" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Gear.svg;" parent="1" vertex="1">
           <mxGeometry x="440" y="520" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VTAO6TMsJG53witNGvhU-65" value="Message" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" parent="1" vertex="1">
+        <mxCell id="VTAO6TMsJG53witNGvhU-65" value="Wiadomość" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" parent="1" vertex="1">
           <mxGeometry x="370" y="520" width="32.46" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VTAO6TMsJG53witNGvhU-66" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VTAO6TMsJG53witNGvhU-67" target="VTAO6TMsJG53witNGvhU-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTAO6TMsJG53witNGvhU-67" value="Private key" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/internet_of_things/Time_Series_Insights_Access_Policies.svg;" parent="1" vertex="1">
+        <mxCell id="VTAO6TMsJG53witNGvhU-67" value="Klucz prywatny" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/internet_of_things/Time_Series_Insights_Access_Policies.svg;" parent="1" vertex="1">
           <mxGeometry x="520" y="560" width="24.71" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VTAO6TMsJG53witNGvhU-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VTAO6TMsJG53witNGvhU-61" target="VTAO6TMsJG53witNGvhU-64" edge="1">
