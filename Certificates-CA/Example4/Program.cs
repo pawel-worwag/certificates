@@ -114,7 +114,10 @@ endExtensions.Add(new Extension()
 
 //CRL
 
-var crlNames = new List<GeneralName> { new GeneralName(GeneralName.UniformResourceIdentifier, "http://www.example.com") };
+var crlNames = new List<GeneralName> { 
+    new GeneralName(GeneralName.UniformResourceIdentifier, "http://www.example.com"),
+    new GeneralName(GeneralName.UniformResourceIdentifier, "http://www.example2.com") 
+};
 var crlList = new List<DistributionPoint>();
 crlList.Add(new DistributionPoint(
     new DistributionPointName(new GeneralNames(crlNames.ToArray())),null,null
